@@ -35,5 +35,5 @@ O projeto traz uma abordagem simples, porém poderosa, para detectar possíveis 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/viniciusldiniz/analisadordelogsdeseguranca.git
-cd analisadordelogsdeseguranca
+git clone https://github.com/viniciusldiniz/analisadorlogsseguranca.git
+cd analisadorlogsseguranca
